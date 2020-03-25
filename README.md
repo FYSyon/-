@@ -1,7 +1,7 @@
 #这是第一个作业可以下载来看看里面使用的框架
 # vue-cli3
 
-## Project setup
+## 安装包或者cnpm 改变源
 ```
 npm install
 ```
